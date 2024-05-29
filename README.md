@@ -1,6 +1,9 @@
 # MEDIEVAL JUMPER ⚔︎
 
-¡Bienvenido a mi juego de acción y plataformas en 3D, creado con Unity y C#!
+¡Bienvenido a mi juego de acción y plataformas en 3D, creado con Unity y C#! <br/>
+`Engine Unity - version 2020.1.16f1`
+
+![imagen](https://github.com/LMike97/medieval-jumper/assets/56482294/b9ecad83-9050-41cb-bd52-bbcfa8d98f60)
 
 ## Tabla de Contenidos
 - [Descripción](#descripción)
