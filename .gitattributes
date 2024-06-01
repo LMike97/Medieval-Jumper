@@ -1,2 +1,23 @@
 *.fbx filter=lfs diff=lfs merge=lfs -text
 .fbx filter=lfs diff=lfs merge=lfs -text
+
+/Library/* linguist-vendored
+/Temp/* linguist-vendored
+/Obj/* linguist-vendored
+/Build/* linguist-vendored
+/Logs/* linguist-vendored
+
+*.meta linguist-detectable=false
+*.unity linguist-detectable=false
+*.prefab linguist-detectable=false
+*.mat linguist-detectable=false
+*.asset linguist-detectable=false
+*.dll linguist-vendored
+
+*.cs linguist-language=C#
+*.shader linguist-language=HLSL
+
+*.cginc linguist-language=HLSL
+*.compute linguist-language=HLSL
+*.json linguist-detectable=false
+*.md linguist-detectable=false
