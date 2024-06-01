@@ -66,7 +66,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 
 Si tienes preguntas, comentarios o sugerencias, no dudes en contactarnos.
 
-- **Enlace al proyecto**: [https://github.com/usuario/nombre-del-proyecto](https://github.com/LMike97medieval-jumper)
+- **Enlace al proyecto**: [https://github.com/LMike97/medieval-jumper](https://github.com/LMike97/medieval-jumper)
 
 ---
 
